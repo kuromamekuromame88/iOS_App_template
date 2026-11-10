@@ -1,4 +1,4 @@
-# iOS_App_example
+# iOS_App_template
 
 ## 説明
 このリポジトリは、iOSのアプリをgithubActionsで未署名の.ipaに変換するときの例のリポジトリです。
@@ -7,8 +7,7 @@
 以下のようなフォルダ構造の場合を想定したビルドスクリプトです。
 
 ```
-repository/
-repository/
+repository_root/
 ├── .github/worklows/build.yml
 ├── VRtest/
 │   └── Unity-iPhone.xcodeproj/
